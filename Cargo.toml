@@ -1,10 +1,10 @@
 [package]
 name = "daemonizer"
-version = "0.4.1"
+version = "0.4.2"
 license = "MIT/Apache-2.0"
 authors = ["Jan S. <jan.schreib@gmail.com>"]
 repository = "https://github.com/jan-schreib/daemonizer"
-documentation = "https://docs.rs/daemonizer/0.4.1/daemonizer/fn.daemonize.html"
+documentation = "https://docs.rs/daemonizer/"
 readme = "README.md"
 description = "A simple library to privdrop and daemonize your program."
 keywords = ["daemon", "daemonize", "unix"]
